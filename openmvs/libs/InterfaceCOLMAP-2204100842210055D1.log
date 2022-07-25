@@ -1,0 +1,22 @@
+08:42:21 [App     ] Build date: Dec 21 2018, 18:08:41
+08:42:21 [App     ] CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+08:42:21 [App     ] RAM: 31.97GB Physical Memory 128.00TB Virtual Memory
+08:42:21 [App     ] OS: Windows 8 x64
+08:42:21 [App     ] SSE & AVX compatible CPU & OS detected
+08:42:21 [App     ] Command line: InterfaceCOLMAP -i E:/windows_colmap/colmap_cmd/4/dense -o E:/windows_colmap/colmap_cmd/4/dense/e_sence.mvs --image-folder E:/windows_colmap/colmap_cmd/4/dense/images
+08:42:21 [App     ] Reading cameras: E:/windows_colmap/colmap_cmd/4/dense/sparse/cameras.txt
+08:42:21 [App     ] Reading images: E:/windows_colmap/colmap_cmd/4/dense/sparse/images.txt
+08:42:22 [App     ] Reading points: E:/windows_colmap/colmap_cmd/4/dense/fused.ply and E:/windows_colmap/colmap_cmd/4/dense/fused.ply.vis
+08:42:22 [App     ] Point-cloud loaded: 834347 points (127ms)
+08:42:35 [App     ] Exported data: 11 images & 834347 vertices (13s832ms)
+08:42:35 [App     ] MEMORYINFO: {
+08:42:35 [App     ] 	PageFaultCount 93402
+08:42:35 [App     ] 	PeakWorkingSetSize 179.96MB
+08:42:35 [App     ] 	WorkingSetSize 7.79MB
+08:42:35 [App     ] 	QuotaPeakPagedPoolUsage 115.23KB
+08:42:35 [App     ] 	QuotaPagedPoolUsage 115.06KB
+08:42:35 [App     ] 	QuotaPeakNonPagedPoolUsage 11.41KB
+08:42:35 [App     ] 	QuotaNonPagedPoolUsage 10.48KB
+08:42:35 [App     ] 	PagefileUsage 2.65MB
+08:42:35 [App     ] 	PeakPagefileUsage 192.76MB
+08:42:35 [App     ] } ENDINFO

@@ -1,0 +1,27 @@
+08:58:28 [App     ] Build date: Dec 21 2018, 18:08:41
+08:58:28 [App     ] CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+08:58:28 [App     ] RAM: 31.97GB Physical Memory 128.00TB Virtual Memory
+08:58:28 [App     ] OS: Windows 8 x64
+08:58:28 [App     ] SSE & AVX compatible CPU & OS detected
+08:58:28 [App     ] Command line: -i E:/windows_colmap/colmap_cmd/4/dense/e_refine.mvs --export-type obj -o E:/windows_colmap/colmap_cmd/4/dense/texture_2/texture.obj
+08:58:28 [App     ] Scene loaded (129ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	0 points, 102649 vertices, 204441 faces
+08:58:44 [App     ] Assigning the best view to each face completed: 204441 faces (16s110ms)
+08:58:49 [App     ] Generating texture atlas and image completed: 1071 patches, 8192 image size (4s853ms)
+08:58:49 [App     ] Mesh texturing completed: 102649 vertices, 204441 faces (20s979ms)
+08:59:04 [App     ] Scene saved (14s672ms):
+	11 images (11 calibrated)
+	0 points, 102649 vertices, 204441 faces
+08:59:06 [App     ] Mesh saved: 102649 vertices, 204441 faces (2s294ms)
+08:59:06 [App     ] MEMORYINFO: {
+08:59:06 [App     ] 	PageFaultCount 1405711
+08:59:06 [App     ] 	PeakWorkingSetSize 1.18GB
+08:59:06 [App     ] 	WorkingSetSize 405.22MB
+08:59:06 [App     ] 	QuotaPeakPagedPoolUsage 125.65KB
+08:59:06 [App     ] 	QuotaPagedPoolUsage 125.48KB
+08:59:06 [App     ] 	QuotaPeakNonPagedPoolUsage 34.92KB
+08:59:06 [App     ] 	QuotaNonPagedPoolUsage 15.40KB
+08:59:06 [App     ] 	PagefileUsage 400.48MB
+08:59:06 [App     ] 	PeakPagefileUsage 2.47GB
+08:59:06 [App     ] } ENDINFO

@@ -1,0 +1,2 @@
+E:\windows_colmap\TEST\3d_reconstruction\x64\Debug\3d_reconstruction.exe
+D:\paper_code\3d_reconstruction\x64\Debug\3d_reconstruction.exe

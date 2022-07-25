@@ -1,0 +1,6 @@
+08:41:26 [App     ] Build date: Dec 21 2018, 18:08:41
+08:41:26 [App     ] CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+08:41:26 [App     ] RAM: 31.97GB Physical Memory 128.00TB Virtual Memory
+08:41:26 [App     ] OS: Windows 8 x64
+08:41:26 [App     ] SSE & AVX compatible CPU & OS detected
+08:41:26 [App     ] Command line: InterfaceCOLMAP -i E:/windows_colmap/colmap_cmd/4/dense/e_sence.mvs -o E:/windows_colmap/colmap_cmd/4/dense/e_mesh.mvs --image-folder E:/windows_colmap/colmap_cmd/4/dense/images

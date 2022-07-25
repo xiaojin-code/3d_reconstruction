@@ -1,0 +1,7 @@
+08:33:23 [App     ] Build date: Dec 21 2018, 18:08:41
+08:33:23 [App     ] CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+08:33:23 [App     ] RAM: 31.97GB Physical Memory 128.00TB Virtual Memory
+08:33:23 [App     ] OS: Windows 8 x64
+08:33:23 [App     ] SSE & AVX compatible CPU & OS detected
+08:33:23 [App     ] Command line: -i E:\windows_colmap\colmap_cmd\4\dense\c_sence.mvs -o E:\windows_colmap\colmap_cmd\4\dense\c_mesh.mvs
+08:33:23 [App     ] error: invalid project

@@ -1,0 +1,53 @@
+08:45:44 [App     ] Build date: Dec 21 2018, 18:08:41
+08:45:44 [App     ] CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+08:45:44 [App     ] RAM: 31.97GB Physical Memory 128.00TB Virtual Memory
+08:45:44 [App     ] OS: Windows 8 x64
+08:45:44 [App     ] SSE & AVX compatible CPU & OS detected
+08:45:44 [App     ] Command line: -i E:/windows_colmap/colmap_cmd/4/dense/e_sence.mvs -o E:/windows_colmap/colmap_cmd/4/dense/e_mesh.mvs
+08:45:44 [App     ] Camera model loaded: platform 0; camera  0; f 1.074x1.073; poses 1
+08:45:44 [App     ] Camera model loaded: platform 1; camera  0; f 1.072x1.071; poses 1
+08:45:44 [App     ] Camera model loaded: platform 2; camera  0; f 1.072x1.074; poses 1
+08:45:44 [App     ] Camera model loaded: platform 3; camera  0; f 1.077x1.062; poses 1
+08:45:44 [App     ] Camera model loaded: platform 4; camera  0; f 1.073x1.063; poses 1
+08:45:44 [App     ] Camera model loaded: platform 5; camera  0; f 1.077x1.078; poses 1
+08:45:44 [App     ] Camera model loaded: platform 6; camera  0; f 1.076x1.069; poses 1
+08:45:44 [App     ] Camera model loaded: platform 7; camera  0; f 1.085x1.064; poses 1
+08:45:44 [App     ] Camera model loaded: platform 8; camera  0; f 1.074x1.070; poses 1
+08:45:44 [App     ] Camera model loaded: platform 9; camera  0; f 1.072x1.074; poses 1
+08:45:44 [App     ] Camera model loaded: platform 10; camera  0; f 1.076x1.058; poses 1
+08:45:44 [App     ] Image loaded   0: 00000.jpg
+08:45:44 [App     ] Image loaded   1: 00001.jpg
+08:45:44 [App     ] Image loaded   2: 00002.jpg
+08:45:44 [App     ] Image loaded   3: 00003.jpg
+08:45:44 [App     ] Image loaded   4: 00004.jpg
+08:45:44 [App     ] Image loaded   5: 00005.jpg
+08:45:44 [App     ] Image loaded   6: 00006.jpg
+08:45:44 [App     ] Image loaded   7: 00007.jpg
+08:45:44 [App     ] Image loaded   8: 00008.jpg
+08:45:44 [App     ] Image loaded   9: 00009.jpg
+08:45:44 [App     ] Image loaded  10: 00010.jpg
+08:45:44 [App     ] Scene loaded from interface format (818ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	834347 points, 0 vertices, 0 faces
+08:45:54 [App     ] Delaunay tetrahedralization completed: 834347 points -> 353009 vertices, 2245864 (+164) cells, 4491810 (+246) faces (8s390ms)
+08:46:06 [App     ] Delaunay tetrahedras weighting completed: 2246028 cells, 4492056 faces (11s625ms)
+08:46:11 [App     ] Delaunay tetrahedras graph-cut completed (486293 flow): 343274 vertices, 686780 faces (4s644ms)
+08:46:20 [App     ] Mesh reconstruction completed: 343334 vertices, 686610 faces (33s916ms)
+08:46:23 [App     ] Cleaned mesh: 343259 vertices, 686188 faces (3s277ms)
+08:46:25 [App     ] Cleaned mesh: 343262 vertices, 686188 faces (2s259ms)
+08:46:26 [App     ] Cleaned mesh: 343262 vertices, 686188 faces (1s98ms)
+08:46:27 [App     ] Scene saved (601ms):
+	11 images (11 calibrated)
+	0 points, 343262 vertices, 686188 faces
+08:46:27 [App     ] Mesh saved: 343262 vertices, 686188 faces (192ms)
+08:46:27 [App     ] MEMORYINFO: {
+08:46:27 [App     ] 	PageFaultCount 785704
+08:46:27 [App     ] 	PeakWorkingSetSize 764.42MB
+08:46:27 [App     ] 	WorkingSetSize 44.82MB
+08:46:27 [App     ] 	QuotaPeakPagedPoolUsage 127.01KB
+08:46:27 [App     ] 	QuotaPagedPoolUsage 126.84KB
+08:46:27 [App     ] 	QuotaPeakNonPagedPoolUsage 16.99KB
+08:46:27 [App     ] 	QuotaNonPagedPoolUsage 14.73KB
+08:46:27 [App     ] 	PagefileUsage 42.20MB
+08:46:27 [App     ] 	PeakPagefileUsage 802.01MB
+08:46:27 [App     ] } ENDINFO
